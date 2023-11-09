@@ -1,0 +1,14 @@
+C:\Users\aluno\Desktop\BootCamp-C-CRM\bin\Debug\net7.0\BootCamp-C-CRM.exe
+C:\Users\aluno\Desktop\BootCamp-C-CRM\bin\Debug\net7.0\BootCamp-C-CRM.deps.json
+C:\Users\aluno\Desktop\BootCamp-C-CRM\bin\Debug\net7.0\BootCamp-C-CRM.runtimeconfig.json
+C:\Users\aluno\Desktop\BootCamp-C-CRM\bin\Debug\net7.0\BootCamp-C-CRM.dll
+C:\Users\aluno\Desktop\BootCamp-C-CRM\bin\Debug\net7.0\BootCamp-C-CRM.pdb
+C:\Users\aluno\Desktop\BootCamp-C-CRM\obj\Debug\net7.0\BootCamp-C-CRM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\BootCamp-C-CRM\obj\Debug\net7.0\BootCamp-C-CRM.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\BootCamp-C-CRM\obj\Debug\net7.0\BootCamp-C-CRM.AssemblyInfo.cs
+C:\Users\aluno\Desktop\BootCamp-C-CRM\obj\Debug\net7.0\BootCamp-C-CRM.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\BootCamp-C-CRM\obj\Debug\net7.0\BootCamp-C-CRM.dll
+C:\Users\aluno\Desktop\BootCamp-C-CRM\obj\Debug\net7.0\refint\BootCamp-C-CRM.dll
+C:\Users\aluno\Desktop\BootCamp-C-CRM\obj\Debug\net7.0\BootCamp-C-CRM.pdb
+C:\Users\aluno\Desktop\BootCamp-C-CRM\obj\Debug\net7.0\BootCamp-C-CRM.genruntimeconfig.cache
+C:\Users\aluno\Desktop\BootCamp-C-CRM\obj\Debug\net7.0\ref\BootCamp-C-CRM.dll
