@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aluno\\Desktop\\BootCamp DIO CRM C#\\BootCamp-C-CRM.csproj",
+      "projectUniqueName": "C:\\Users\\aluno\\Desktop\\Lúcio\\BootCamp-DIO-CRM-e-C\\BootCamp DIO CRM C#\\BootCamp-C-CRM.csproj",
       "projectName": "BootCamp-C-CRM",
-      "projectPath": "C:\\Users\\aluno\\Desktop\\BootCamp DIO CRM C#\\BootCamp-C-CRM.csproj",
+      "projectPath": "C:\\Users\\aluno\\Desktop\\Lúcio\\BootCamp-DIO-CRM-e-C\\BootCamp DIO CRM C#\\BootCamp-C-CRM.csproj",
       "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aluno\\Desktop\\BootCamp DIO CRM C#\\obj\\",
+      "outputPath": "C:\\Users\\aluno\\Desktop\\Lúcio\\BootCamp-DIO-CRM-e-C\\BootCamp DIO CRM C#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
